@@ -28,8 +28,8 @@ import android.os.Bundle;
 import android.widget.Toast;
 
 import com.freshchat.consumer.sdk.*;
-import com.google.android.gms.gcm.GoogleCloudMessaging;
-import com.google.android.gms.iid.InstanceID;
+import com.google.firebase.messaging.FirebaseMessaging;
+import com.google.firebase.iid.FirebaseInstanceId;
 import java.util.ArrayList;
 import java.util.List;
 
